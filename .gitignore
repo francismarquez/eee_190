@@ -1,0 +1,7 @@
+settings.json
+
+**/**.pyc
+
+data/
+models_backup/
+models/
